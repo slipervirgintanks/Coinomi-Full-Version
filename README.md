@@ -270,4 +270,4 @@ This repository serves as the official landing page for Coinomi. The software is
 **Get the most recent version of Coinomi today!**
 
 ---
-**Last updated:** 2026-10-28 22:28:29 UTC
+**Last updated:** 2026-10-29 02:10:32 UTC
